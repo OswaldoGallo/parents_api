@@ -1,0 +1,158 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Los Cocos",
+      "image": "https://gamepedia.cursecdn.com/dota2_gamepedia/thumb/4/4d/Team_logo_Team_Spirit.png/256px-Team_logo_Team_Spirit.png?version=4552bbb14baa68c9ab2e9f354a05df32",
+      "gender": "Varonil"
+    },
+    {
+      "id": 2,
+      "name": "Los Canayas",
+      "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png",
+      "gender": "Varonil"
+    }
+  ],
+  "match_history": [
+    {
+      "id": 1,
+      "date": "2019-12-12",
+      "time": "18:00",
+      "played": true,
+      "away": {
+        "id": 1,
+        "name": "Los Cocos",
+        "image": "https://gamepedia.cursecdn.com/dota2_gamepedia/thumb/4/4d/Team_logo_Team_Spirit.png/256px-Team_logo_Team_Spirit.png?version=4552bbb14baa68c9ab2e9f354a05df32",
+        "score": "1"
+      },
+      "local": {
+        "id": 2,
+        "name": "Los Canayas",
+        "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png",
+        "score": "3"
+      }
+    },
+    {
+      "id": 2,
+      "date": "2019-12-12",
+      "time": "18:00",
+      "played": true,
+      "away": {
+        "id": 2,
+        "name": "Los Canayas",
+        "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png",
+        "score": "3"
+      },
+      "local": {
+        "id": 3,
+        "name": "Los Endebles",
+        "image": "http://content.sportslogos.net/slnet-505x505trans.png",
+        "score": "5"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "name": "Categoría 2001",
+      "rounds": [
+        {
+          "number": "Jornada 1",
+          "date": "2019-12-12",
+          "matches": [
+            {
+              "id": 1,
+              "played": false,
+              "date": "2019-12-12",
+              "time": "18:00",
+              "away": {
+                "id": 1,
+                "name": "Los Cocos",
+                "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+              },
+              "local": {
+                "id": 2,
+                "name": "Los Conejos",
+                "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Categoría 2003",
+      "rounds": [
+        {
+          "number": "Jornada 2",
+          "date": "2019-12-12",
+          "matches": [
+            {
+              "id": 1,
+              "played": false,
+              "date": "2019-12-12",
+              "time": "18:00",
+              "away": {
+                "id": 1,
+                "name": "Los Cocos",
+                "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+              },
+              "local": {
+                "id": 2,
+                "name": "Los Conejos",
+                "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "match": {
+    "id": 1,
+    "date": "2019-12-12",
+    "time": "18:00",
+    "field": "Estadio Revolución",
+    "field_address": "Av. Siempre Viva",
+    "played": true,
+    "away": {
+      "id": 1,
+      "name": "Los Cocos",
+      "image": "https://gamepedia.cursecdn.com/dota2_gamepedia/thumb/4/4d/Team_logo_Team_Spirit.png/256px-Team_logo_Team_Spirit.png?version=4552bbb14baa68c9ab2e9f354a05df32"
+    },
+    "local": {
+      "id": 2,
+      "name": "Los Conejos",
+      "image": "https://teamriverside.eu/wp-content/uploads/2017/09/Logo-png.png"
+    }
+  },
+  "positions_table": [
+    {
+      "id": 1,
+      "name": "Los Cocos",
+      "image": "https://gamepedia.cursecdn.com/dota2_gamepedia/thumb/4/4d/Team_logo_Team_Spirit.png/256px-Team_logo_Team_Spirit.png?version=4552bbb14baa68c9ab2e9f354a05df32",
+      "played_games": 2,
+      "points": 6
+    },
+    {
+      "id": 2,
+      "name": "Los Canayas",
+      "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png",
+      "played_games": 2,
+      "points": 3
+    },
+    {
+      "id": 3,
+      "name": "Los Endebles",
+      "image": "http://content.sportslogos.net/slnet-505x505trans.png",
+      "played_games": 2,
+      "points": 0
+    },
+    {
+      "id": 4,
+      "name": "Los Conejos",
+      "image": "https://teamriverside.eu/wp-content/uploads/2017/09/Logo-png.png",
+      "played_games": 2,
+      "points": 0
+    }
+  ]
+}
